@@ -88,7 +88,7 @@ header .logo img {
 }
 
 .dish-preview {
-  width: 50%;
+  width: fit-content;
   margin-inline: auto;
 }
 

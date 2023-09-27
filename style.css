@@ -88,11 +88,11 @@ header .logo img {
 }
 
 .dish-preview {
-  width: 100%;
+  width: 50%;
+  margin-inline: auto;
 }
 
-.dish-preview img {
-  border-radius: 10px;
+.dish-preview video {
   width: 100%;
 }
 

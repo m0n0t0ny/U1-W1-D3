@@ -34,14 +34,12 @@ li {
 }
 
 header .logo {
-  margin: auto;
   text-align: center;
 }
 
 header .logo img {
   height: 3.5rem;
   text-align: center;
-  vertical-align: middle;
   padding: 0.75rem;
 }
 
@@ -53,7 +51,6 @@ header .logo img {
 
 .part-of-text {
   width: 100%;
-  margin-inline: auto;
   text-align: center;
 }
 
@@ -61,12 +58,11 @@ header .logo img {
   font-size: 14px;
   color: rgb(0, 128, 128);
   padding: 0.75rem 0;
-  margin-inline: auto;
 }
 
-.main {
-  width: 60%;
-  margin: 0 20%;
+main {
+  width: 50%;
+  margin: 0 auto;
 }
 
 .full-guide {
@@ -75,7 +71,6 @@ header .logo img {
 
 .receipt-title {
   text-align: center;
-  margin: auto;
 }
 
 .receipt-title h1 {
@@ -94,6 +89,7 @@ header .logo img {
 
 .dish-preview video {
   width: 100%;
+  border-radius: 10px;
 }
 
 figcaption {
